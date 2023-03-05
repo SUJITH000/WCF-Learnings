@@ -1,0 +1,12 @@
+E:\WCF learn\4th\CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe.config
+E:\WCF learn\4th\CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe
+E:\WCF learn\4th\CompanyService\CompanyServiceHost\bin\Debug\CompanyServiceHost.pdb
+E:\WCF learn\4th\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.dll
+E:\WCF learn\4th\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.pdb
+E:\WCF learn\4th\CompanyService\CompanyServiceHost\bin\Debug\CompanyService.dll.config
+E:\WCF learn\4th\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.AssemblyReference.cache
+E:\WCF learn\4th\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.SuggestedBindingRedirects.cache
+E:\WCF learn\4th\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.CoreCompileInputs.cache
+E:\WCF learn\4th\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.CopyComplete
+E:\WCF learn\4th\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.exe
+E:\WCF learn\4th\CompanyService\CompanyServiceHost\obj\Debug\CompanyServiceHost.pdb

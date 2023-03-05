@@ -1,0 +1,7 @@
+E:\WCF learn\3rd\WcfHost\HelloService\HelloService\bin\Debug\HelloService.dll.config
+E:\WCF learn\3rd\WcfHost\HelloService\HelloService\bin\Debug\HelloService.dll
+E:\WCF learn\3rd\WcfHost\HelloService\HelloService\bin\Debug\HelloService.pdb
+E:\WCF learn\3rd\WcfHost\HelloService\HelloService\obj\Debug\HelloService.csproj.AssemblyReference.cache
+E:\WCF learn\3rd\WcfHost\HelloService\HelloService\obj\Debug\HelloService.csproj.CoreCompileInputs.cache
+E:\WCF learn\3rd\WcfHost\HelloService\HelloService\obj\Debug\HelloService.dll
+E:\WCF learn\3rd\WcfHost\HelloService\HelloService\obj\Debug\HelloService.pdb

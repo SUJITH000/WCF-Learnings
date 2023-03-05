@@ -1,0 +1,12 @@
+E:\WCF learn\3rd\WcfHost\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+E:\WCF learn\3rd\WcfHost\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+E:\WCF learn\3rd\WcfHost\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+E:\WCF learn\3rd\WcfHost\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+E:\WCF learn\3rd\WcfHost\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+E:\WCF learn\3rd\WcfHost\HelloService\HelloServiceHost\bin\Debug\HelloService.dll.config
+E:\WCF learn\3rd\WcfHost\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.AssemblyReference.cache
+E:\WCF learn\3rd\WcfHost\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.SuggestedBindingRedirects.cache
+E:\WCF learn\3rd\WcfHost\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CoreCompileInputs.cache
+E:\WCF learn\3rd\WcfHost\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CopyComplete
+E:\WCF learn\3rd\WcfHost\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+E:\WCF learn\3rd\WcfHost\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb

@@ -1,0 +1,11 @@
+E:\WCF learn\3rd\WcfFormClient\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe.config
+E:\WCF learn\3rd\WcfFormClient\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe
+E:\WCF learn\3rd\WcfFormClient\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.pdb
+E:\WCF learn\3rd\WcfFormClient\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.AssemblyReference.cache
+E:\WCF learn\3rd\WcfFormClient\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.SuggestedBindingRedirects.cache
+E:\WCF learn\3rd\WcfFormClient\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.Form1.resources
+E:\WCF learn\3rd\WcfFormClient\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.Properties.Resources.resources
+E:\WCF learn\3rd\WcfFormClient\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.GenerateResource.cache
+E:\WCF learn\3rd\WcfFormClient\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.CoreCompileInputs.cache
+E:\WCF learn\3rd\WcfFormClient\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.exe
+E:\WCF learn\3rd\WcfFormClient\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.pdb

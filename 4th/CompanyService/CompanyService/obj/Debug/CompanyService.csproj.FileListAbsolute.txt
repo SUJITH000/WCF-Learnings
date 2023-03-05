@@ -1,0 +1,7 @@
+E:\WCF learn\4th\CompanyService\CompanyService\bin\Debug\CompanyService.dll.config
+E:\WCF learn\4th\CompanyService\CompanyService\bin\Debug\CompanyService.dll
+E:\WCF learn\4th\CompanyService\CompanyService\bin\Debug\CompanyService.pdb
+E:\WCF learn\4th\CompanyService\CompanyService\obj\Debug\CompanyService.csproj.AssemblyReference.cache
+E:\WCF learn\4th\CompanyService\CompanyService\obj\Debug\CompanyService.csproj.CoreCompileInputs.cache
+E:\WCF learn\4th\CompanyService\CompanyService\obj\Debug\CompanyService.dll
+E:\WCF learn\4th\CompanyService\CompanyService\obj\Debug\CompanyService.pdb
