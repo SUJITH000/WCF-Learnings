@@ -280,3 +280,4 @@ config.ps1
 # Debug files
 *.etl
 *.dmp
+/3rd/WcfWebClient/HelloWebClient/.vs/HelloWebClient/v17/.suo
