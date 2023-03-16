@@ -281,3 +281,4 @@ config.ps1
 *.etl
 *.dmp
 /3rd/WcfWebClient/HelloWebClient/.vs/HelloWebClient/v17/.suo
+/3rd/WcfWebClient/HelloWebClient/.vs/HelloWebClient/v17/.suo
